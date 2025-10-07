@@ -1,2 +1,22 @@
-.idea
-__pycache__
+# IDE / Editors
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Byte-compiled
+*.pyo
+*.pyd
+*.pdb
